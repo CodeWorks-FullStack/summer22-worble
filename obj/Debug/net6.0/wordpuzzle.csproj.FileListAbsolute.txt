@@ -1,0 +1,15 @@
+C:\Users\mick\codeworks\source\classes\summer22\wordpuzzle\wordpuzzle\bin\Debug\net6.0\wordpuzzle.exe
+C:\Users\mick\codeworks\source\classes\summer22\wordpuzzle\wordpuzzle\bin\Debug\net6.0\wordpuzzle.deps.json
+C:\Users\mick\codeworks\source\classes\summer22\wordpuzzle\wordpuzzle\bin\Debug\net6.0\wordpuzzle.runtimeconfig.json
+C:\Users\mick\codeworks\source\classes\summer22\wordpuzzle\wordpuzzle\bin\Debug\net6.0\wordpuzzle.dll
+C:\Users\mick\codeworks\source\classes\summer22\wordpuzzle\wordpuzzle\bin\Debug\net6.0\wordpuzzle.pdb
+C:\Users\mick\codeworks\source\classes\summer22\wordpuzzle\wordpuzzle\obj\Debug\net6.0\wordpuzzle.csproj.AssemblyReference.cache
+C:\Users\mick\codeworks\source\classes\summer22\wordpuzzle\wordpuzzle\obj\Debug\net6.0\wordpuzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mick\codeworks\source\classes\summer22\wordpuzzle\wordpuzzle\obj\Debug\net6.0\wordpuzzle.AssemblyInfoInputs.cache
+C:\Users\mick\codeworks\source\classes\summer22\wordpuzzle\wordpuzzle\obj\Debug\net6.0\wordpuzzle.AssemblyInfo.cs
+C:\Users\mick\codeworks\source\classes\summer22\wordpuzzle\wordpuzzle\obj\Debug\net6.0\wordpuzzle.csproj.CoreCompileInputs.cache
+C:\Users\mick\codeworks\source\classes\summer22\wordpuzzle\wordpuzzle\obj\Debug\net6.0\wordpuzzle.dll
+C:\Users\mick\codeworks\source\classes\summer22\wordpuzzle\wordpuzzle\obj\Debug\net6.0\refint\wordpuzzle.dll
+C:\Users\mick\codeworks\source\classes\summer22\wordpuzzle\wordpuzzle\obj\Debug\net6.0\wordpuzzle.pdb
+C:\Users\mick\codeworks\source\classes\summer22\wordpuzzle\wordpuzzle\obj\Debug\net6.0\wordpuzzle.genruntimeconfig.cache
+C:\Users\mick\codeworks\source\classes\summer22\wordpuzzle\wordpuzzle\obj\Debug\net6.0\ref\wordpuzzle.dll
